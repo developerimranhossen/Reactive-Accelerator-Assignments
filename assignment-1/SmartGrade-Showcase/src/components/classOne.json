@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Md. Imran",
+    "scores": "A+",
+    "percentage": 98
+  },
+  {
+    "id": 2,
+    "name": "Md. Raju",
+    "scores": "A+",
+    "percentage": 80
+  },
+  {
+    "id": 3,
+    "name": "Dip",
+    "scores": "A",
+    "percentage": 70
+  },
+  {
+    "id": 4,
+    "name": "Nur",
+    "scores": "A-",
+    "percentage": 65
+  },
+  {
+    "id": 5,
+    "name": "Md. Muhib",
+    "scores": "A+",
+    "percentage": 98
+  },
+  {
+    "id": 6,
+    "name": "Md. Rakib",
+    "scores": "A+",
+    "percentage": 80
+  },
+  {
+    "id": 7,
+    "name": "Alo",
+    "scores": "A",
+    "percentage": 70
+  },
+  {
+    "id": 8,
+    "name": "Sakib",
+    "scores": "A-",
+    "percentage": 65
+  },
+  {
+    "id": 9,
+    "name": "Poly",
+    "scores": "A",
+    "percentage": 70
+  },
+  {
+    "id": 10,
+    "name": "Doly",
+    "scores": "A+",
+    "percentage": 86
+  }
+]

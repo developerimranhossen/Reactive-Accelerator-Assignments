@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript and Jquery",
+    "author": "Jon Duckett",
+    "price": 62,
+    "published": 2021,
+    "pic": "https://javascriptbook.com/images/book/javascript-and-jquery-book-cover.png",
+    "isFav": false
+  },
+  {
+    "id": 2,
+    "name": "JavaScript",
+    "author": "Ryan Turner",
+    "price": 52,
+    "published": 2020,
+    "pic": "https://exploringjs.com/impatient-js/img-homepage/cover-homepage.jpg",
+    "isFav": false
+  },
+  {
+    "id": 3,
+    "name": "Chokher Bali",
+    "author": "Rabindranath Tagore",
+    "price": 80,
+    "published": 2021,
+    "pic": "https://www.geetachhabra.com/images/aboutgc/Chokher-Bali-july2014.jpg",
+    "isFav": false
+  },
+  {
+    "id": 4,
+    "name": "HARRY POTTER",
+    "author": "J.K Rowling",
+    "price": 55,
+    "published": 2019,
+    "pic": "https://bukovero.com/wp-content/uploads/2016/07/Harry_Potter_and_the_Cursed_Child_Special_Rehearsal_Edition_Book_Cover.jpg",
+    "isFav": false
+  },
+  {
+    "id": 5,
+    "name": "Your Story",
+    "author": "A.k Clark",
+    "price": 75,
+    "published": 2017,
+    "pic": "https://images-platform.99static.com//tbZwUSAKzPj-ov_2j9CN1Ie2Khw=/0x0:960x960/fit-in/500x500/99designs-contests-attachments/92/92980/attachment_92980520",
+    "isFav": false
+  },
+  {
+    "id": 6,
+    "name": "They Hunt",
+    "author": "Claire Fraise",
+    "price": 75,
+    "published": 2011,
+    "pic": "https://images-platform.99static.com//Q2Fwj5laXViAM8QtAGAfpxUyEYg=/fit-in/500x500/projects-files/152/15287/1528752/f86d06e9-f594-4207-99a3-ab29ac5bd86d.jpg",
+    "isFav": false
+  },
+  {
+    "id": 7,
+    "name": "In The Clearing",
+    "author": "J.P Pomare",
+    "price": 55,
+    "published": 2021,
+    "pic": "https://bookbrush.com/wp-content/uploads/Picture1-1.jpg",
+    "isFav": false
+  },
+  {
+    "id": 8,
+    "name": "The Lord Of The Ring",
+    "author": "J.R.R Tolkine",
+    "price": 75,
+    "published": 2015,
+    "pic": "https://assets-global.website-files.com/5a8855ffd9716c0001a4227d/5b7835585f23e81cb64a65a0_lotr.jpg",
+    "isFav": false
+  }
+]
